@@ -43,5 +43,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 		 *
 		 * @hooked hotel_booking_sidebar - 10
 		 */
-		do_action( 'hotel_booking_sidebar' );
+		// do_action( 'hotel_booking_sidebar' );
 	?>
